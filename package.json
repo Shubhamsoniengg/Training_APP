@@ -1,0 +1,26 @@
+{
+  "name": "training_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "triangle": "node Extra/pattens/triangle.js",
+    "diamond": "node Extra/pattens/diamond.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shubhamsoniengg/Training_APP.git"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shubhamsoniengg/Training_APP/issues"
+  },
+  "homepage": "https://github.com/Shubhamsoniengg/Training_APP#readme",
+  "dependencies": {
+    "core-util-is": "^1.0.2",
+    "uv": "^1.0.7"
+  }
+}
