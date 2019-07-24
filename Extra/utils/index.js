@@ -1,1 +1,1 @@
-export { default as role } from './role';
+export { default as role,role1 } from './role';
