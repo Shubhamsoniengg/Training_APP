@@ -1,5 +1,5 @@
 // console.log("Shubham>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>");
-function triangle (a){
+export default function triangle (a){
   let ptrn='';
   for(let i=1; i<=a; i++) {
     for(let j=1; j<=a-i; j++){  
@@ -13,5 +13,3 @@ function triangle (a){
 
   console.log(ptrn);
 }
-
-triangle(5)

@@ -4,15 +4,19 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "triangle": "node Extra/pattens/triangle.js",
-    "diamond": "node Extra/pattens/diamond.js",
+
+    "extra":"babel node Extra/",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Shubhamsoniengg/Training_APP.git"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/node": "^7.5.5",
+    "@babel/preset-env": "^7.5.5"
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
