@@ -1,4 +1,4 @@
-import { diamond,triangle}  from './patterns';
+import { diamond,triangle, soni}  from './patterns';
 import {role,role1} from './utils'
 
 triangle(5);

@@ -24,3 +24,7 @@ export default function diamond (a){
   console.log(ptrn);
 }
   
+
+export function soni(){
+  console.log("Soni is on Fire>>>>>>")
+}
